@@ -20,5 +20,6 @@
 	<NavUl {hidden}>
 		<NavLi href="/">Home</NavLi>
 		<NavLi href="/about">About</NavLi>
+		<NavLi href="/nested">Nested routes</NavLi>
 	</NavUl>
 </Navbar>
